@@ -1,2 +1,2 @@
-# Pen Project People
-Pen to Practice, Applied to Project on GitHub. Deployed to the World. 
+# Practice to Deployment
+Practice Pen, ported to a project on GitHub then deployed to the world through Netlify. 
